@@ -71,7 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # How to run project
-1. clone the repo
-2. install node modules using npm i
-3. Once the node modules are installed, replace the apikey in the repo with your API key (inside news-aggregator/arc/News.js - for variable ```apiKey```)
-4. Once done run ```npm start``` or run ```docker run -p 3000:3000 news-aggregator``` then open the browser and go to ```http://localhost:3000``` to see the React app running inside the docker container
+1. Clone the repo
+2. Install node modules using npm i
+3. Checkout to master branch.
+4. Once the node modules are installed, replace the apikey in the repo with your API key (inside news-aggregator/arc/News.js - for variable ```apiKey```)
+5. Once done run ```npm start``` or run ```docker run -p 3000:3000 news-aggregator``` then open the browser and go to ```http://localhost:3000``` to see the React app running inside the docker container
