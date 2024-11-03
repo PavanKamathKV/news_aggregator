@@ -1,0 +1,52 @@
+.filterWrapper {
+  display: flex;
+  flex-direction: column;
+  border: 5px solid white;
+  margin: 0px 85px;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.keywordClass {
+  width: 50%;
+  height: 20px;
+}
+
+.catSourceWrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.quarterWidth {
+    width: 25%;
+}
+
+.fullWidth {
+    width: 100%;
+}
+
+.halfWidth {
+    width: 50%;
+}
+
+.newsWrapper {
+    border: 1px solid white;
+    padding: 10px;
+    margin: 50px;
+    border-radius: 5px;
+}
+
+.titleClass {
+    border: 2px solid white;
+    width: 30%;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+.descClass {
+    font-size: 16px;
+}
+
+.color_white {
+    color: #fff;
+}
